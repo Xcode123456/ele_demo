@@ -12,7 +12,7 @@ ele_demo
 
 4.虚线----DashedLineView
 
-5.购物车动画效果
+5.购物车动画效果adsfasdfasdfasdfasd
 
 6.两列面板（menu和content）的切换 ----SlidingPaneLayout
 
